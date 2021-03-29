@@ -1,1 +1,3 @@
 # CS577P5
+Project Specification: Suppose you are given a set of coins of predetermined values in cents – for instance, a dime has value 10 cents and aquarter has value 25 cents, but you could also be given coins with cent values 3, 7, etc. It is possible to have multiplecoins of the same denomination. Your goal is to determine whether or not it is possible to divide this set of coins intotwo subsetsS1andS2such that:•  Any coin in the original set is in eitherS1orS2,•  No coin is in bothS1andS2, and•  The total monetary values ofS1andS2are the same.As these questions have simple answers (true or false), the problem inputs will be divided into groups. Answering allquestions in a group correctly is necessary to get credit for that group.
+Date Completed: Mar 13, 2021
